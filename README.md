@@ -10,6 +10,8 @@ The Recipe Organizer app is designed to help you keep track of all your favorite
 
 **Delete Recipes:** Remove recipes you no longer need or want to keep in your collection.
 
+**Search Recipe:** You can search your recipe by just typing its name in the search bar.
+
 **Easy-to-use Interface:** Simple navigation to add, view, and delete recipes.
 
 **Responsive Layout:** Works across multiple devices for convenient recipe management.
