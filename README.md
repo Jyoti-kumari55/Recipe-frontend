@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+<h1 align="center"> Recipe Organizer App </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Description
+The Recipe Organizer app is designed to help you keep track of all your favorite recipes. With this app, you can easily create, view, and delete recipes. Each recipe includes details such as ingredients, instructions, and any additional notes. Whether you're a beginner in the kitchen or a seasoned chef, this app helps you stay organized and never forget a recipe again!
 
-## Available Scripts
+### Features
+**Create Recipe:** Add a new recipe by providing a name, ingredients, step-by-step instructions, and any extra details (e.g., cooking time, difficulty level).
 
-In the project directory, you can run:
+**View Recipes:** Browse through your saved recipes and view detailed information including ingredients, instructions, and additional notes.
 
-### `npm start`
+**Delete Recipes:** Remove recipes you no longer need or want to keep in your collection.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Easy-to-use Interface:** Simple navigation to add, view, and delete recipes.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Responsive Layout:** Works across multiple devices for convenient recipe management.
 
-### `npm test`
+### How to Use
+1. **Create a Recipe**
+   
+* Go to the "Add Recipe" section.
+* Fill in the recipe name, ingredients, and instructions fields.
+* Optionally, add extra details like cooking time, serving size, and difficulty level.
+* Click on the Save Recipe button to store your recipe in the app.
+2. **View a Recipe**
+* Navigate to your Recipe List.
+* Click on any recipe to view its full details (name, ingredients, instructions, etc.).
+* You can also make edits or add notes from the view page.
+3. **Delete a Recipe**
+* While viewing a recipe, there will be an option to Delete.
+* Confirm your choice, and the recipe will be permanently removed from your collection.
+  
+### Technologies Used
+* **Frontend:** [HTML, CSS, JavaScript, React]
+* **Backend:** [Node.js, Express]
+* **Database:** [MongoDB]
+* **Hosting:** [ Vercel]
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ [Vercel Link](https://recipe-organizer-app-byjyoti.vercel.app) or [https://recipe-organizer-app-byjyoti.vercel.app/]
+ 
+ [Backed Code Github for this App](https://github.com/Jyoti-kumari55/Recipe-backend) or [https://github.com/Jyoti-kumari55/Recipe-backend]
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
